@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    
+    }
+div{
+    text-align: center;
+    font-size: 30px;
+    color:red;
+}
+    h2{  
+    color: blue;
+    } 
+    h1{
+        color:aqua;
+        text-align: right;
+       
+    } 
+    h3{
+        color:darkorange;        
+        text-align: left;
+    } 
+    h4{
+        color:deeppink;
+        text-align: justify;
+    }
